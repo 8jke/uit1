@@ -659,10 +659,6 @@ $RegKeys = @(
     'Computer\HKEY_CURRENT_USER\Software\Classes\roblox-player\DefaultIcon',
     'Computer\HKEY_CURRENT_USER\Software\Classes\roblox-player\shell\open\command',
     'Computer\HKEY_CURRENT_USER\Software\Classes\roblox\shell\open\command',
-    'Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-12-1-3068523005-1336429617-3773850040-151574247',
-    'Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3657241696-2636685733-3452853471-1000',
-    'Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3657241696-2636685733-3452853471-1001',
-    'Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\State\UserSettings\S-1-5-21-3657241696-2636685733-3452853471-500',
     'HKEY_CURRENT_USER\Software\Classes\discord-1393297926209405000\DefaultIcon',
     'HKEY_CLASSES_ROOT\discord-1393297926209405000\shell\open\command'
 )
