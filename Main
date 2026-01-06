@@ -1207,5 +1207,5 @@ if (-not $IsAdmin) {
 }
 
 Write-Host ""
-Read-Host "Press Enter to Exit"
+Read-Host "Press Enter to Exit."
 exit
