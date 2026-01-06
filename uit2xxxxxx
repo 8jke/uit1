@@ -1313,6 +1313,5 @@ foreach ($Path in $ScanPaths) {
 
 Write-Log "Scan completed."
 
-Write-Host ""
-Read-Host "Press Enter to Exit."
+Wait-ForEnter "Press Enter to Exit."
 exit
